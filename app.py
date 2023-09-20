@@ -60,4 +60,4 @@ if uploaded_file:
     else:
         st.write("Failed to upload the file.")
 
-st.markdown('## Create with ❤️‍🔥 by Yuval Avidani @HACKIT.CO.IL 🔥')
+st.markdown('<small>Create with ❤️‍🔥 by Yuval Avidani @HACKIT.CO.IL 🔥</small>', unsafe_allow_html=True)
